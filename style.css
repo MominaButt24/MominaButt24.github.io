@@ -229,15 +229,15 @@ span {
 @keyframes words{
     0%,
     30%{
-        content: " Frontend Designer";
+        content: " Software Developer";
     }
     31%,
     65%{
-        content:" Web Designer";
+        content:" ML Enthusiast";
     }
     66%,
     100%{
-        content:" Web Developer";
+        content:" AI Builder";
     }
 }
 
